@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"com.natsuite.natstep": "git+https://github.com/natsuite/NatStep?path=/Packages/com.natsuite.natstep"
+	}
+}
